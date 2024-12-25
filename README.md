@@ -1,0 +1,3 @@
+#JDBC API CRUD operation
+
+I am working on a robust JDBC-based CRUD operation project that involves managing a dataset of 5,000 random employee details. This project demonstrates core database operations such as insertion, deletion, updating records, retrieving specific data, and filtering records based on various criteria. A key highlight is the implementation of advanced concepts like Resource Management to ensure efficient handling of resources during database interactions. Each operation has been meticulously designed to deliver optimized performance while maintaining data integrity. This project showcases the practical application of essential database techniques, emphasizing both functionality and scalability.
